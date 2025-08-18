@@ -1,0 +1,6 @@
+[submodule "rapport-service"]
+	path = rapport-service
+	url = https://github.com/saladmaker/rapport-service.git
+[submodule "rapport-front"]
+	path = rapport-front
+	url = https://github.com/saladmaker/rapport-front.git
